@@ -6,6 +6,7 @@ export default function App() {
     <View>
       <Text>ini app js</Text>
       <Text>text baru from main</Text>
+      <Text>Lihat perubahan ku</Text>
     </View>
   );
 }
@@ -13,3 +14,4 @@ export default function App() {
 //edited irsyad  lagi
   
 
+//lakukan perubahan
