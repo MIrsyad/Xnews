@@ -1,6 +1,7 @@
 import React from 'react';
 import {View, Text} from 'react-native';
 
+
 export default function App() {
   return (
     <View>
@@ -10,3 +11,4 @@ export default function App() {
 }
 //edited by irsyad
 //edited irsyad  lagi
+
