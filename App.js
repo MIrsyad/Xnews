@@ -6,7 +6,9 @@ export default function App() {
     <View>
       <Text>ini app js</Text>
       <Text>text baru from main</Text>
+      <Text>text dari irsyad</Text>
       <Text>Lihat perubahan ku</Text>
+      <Text>text dari irsyad</Text>
     </View>
   );
 }
