@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View>
       <Text>ini app js</Text>
+      <Text>text baru from main</Text>
     </View>
   );
 }
