@@ -1,12 +1,14 @@
 import React from 'react';
 import {View, Text} from 'react-native';
 
-const App = () => {
-  return(
+
+export default function App() {
+  return (
     <View>
-      <Text>Ade</Text>
+      <Text>ini app js</Text>
     </View>
   );
-};
+}
+//edited by irsyad
+//edited irsyad  lagi
 
-export default App;
